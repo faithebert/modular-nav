@@ -53,14 +53,16 @@ a:hover {
   color: #fff;
 }
 
+.current {
+  background-color: #0074d9;
+  color: #fff;
+}
+
 @media only screen and (min-width:38em) {
 
-  h1 {
-    text-align: left;
-  }
 
   nav {
-    text-align: left;
+    text-align: right;
   }
 
   li {
